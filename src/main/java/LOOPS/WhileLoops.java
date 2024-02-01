@@ -5,8 +5,8 @@ import java.util.Scanner;
 public class WhileLoops {
 
     public static void main(String[] args) {
-printFactorial( n=5 );// za 0
-printFactorial (n=7); //za 1
+printFactorial( n:5 );// za 0
+printFactorial (n:7); //za 1
 
 
         System.out.println("Enter positive number: ");
